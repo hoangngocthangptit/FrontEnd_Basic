@@ -1,9 +1,13 @@
 diff a/ttts_frontEnd_text/basic1.html b/ttts_frontEnd_text/basic1.html	(rejected hunks)
-@@ -11,6 +11,7 @@
- 
- <body>
+@@ -13,7 +13,9 @@
      <button class="btn btn-danger">Button Bootstrap</button>
-+    <button class="btn btn-primary">Button</button>
      <p>chao cac ban</p>
+     <p>xin tí tiền</p>
+-    <p>xin chao hi hihihihi</p>
++    <p>hh</p>
++    <h1>anh thắng dc trai</h1>
++
  </body>
  
+ </html>
+\ No newline at end of file
