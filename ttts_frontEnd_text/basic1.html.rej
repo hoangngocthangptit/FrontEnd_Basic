@@ -1,0 +1,9 @@
+diff a/ttts_frontEnd_text/basic1.html b/ttts_frontEnd_text/basic1.html	(rejected hunks)
+@@ -11,6 +11,7 @@
+ 
+ <body>
+     <button class="btn btn-danger">Button Bootstrap</button>
++    <button class="btn btn-primary">Button</button>
+     <p>chao cac ban</p>
+ </body>
+ 
